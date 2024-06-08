@@ -16,8 +16,7 @@ This project implements a robust Face Recognition system using OpenCV, a popular
 ## Installation
 
 1. Clone the repository to your local machine:
-git clone  https://github.com/your_username/face-recognition.git
-
+git clone (https://github.com/Elangovan0101/Face-recognition.git)
 
 2. Navigate to the project directory:
 cd face-recognition
